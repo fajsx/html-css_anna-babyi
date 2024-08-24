@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&family=Open+Sans&display=swap');
+
+body {
+    background-color: #d2d2c1;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+    color: #333;
+}
+
+#principal{
+    width: 920px;
+    margin: auto;
+}
+
+nav{
+    font-family: 'El Messiri', sans-serif;
+    font-size: 1.2em;
+    background-color: #edebe9;
+    padding: 18px;
+}
+
+a{
+    color:#4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+h1{
+    font-family: 'El Messiri', sans-serif;
+    color: #828271;
+    font-size: 1.2em;
+}
+
+p{
+    font-size: 0.9em;
+}
+
+img{
+    border: 10px solid #edebe9;
+}
+
+.conteudo{
+    background-color: #e8e8d9;
+    padding: 20px;
+}
+
+.anna{
+    width: 420px;
+    float: left;
+}
+
+.sobre{
+    width: 440px;
+    float: right;
+}
+
+table{
+    font-size: 0.9em;
+}
+
+table td{
+    padding: 5px;
+}
+
+footer{
+    text-align: center;
+    font-size: 0.9em;
+    padding: 10px;
+    background-color: #edebe9;
+}
